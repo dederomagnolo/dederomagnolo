@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Debora, nice to meet you.
 
-<p><em>Software Developer at <a href="http://www.amdocs.com">Amdocs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Full Stack Developer at <a href="http://www.amdocs.com">Amdocs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <h3>My everyday tools and technologies:</h3>
