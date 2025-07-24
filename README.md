@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Debora, nice to meet you.
 
 <p>I like to code and to make some fun stuffs with eletronics.</p> 
-<p><em>Full Stack Developer at <a href="https://globoplay.globo.com">Globoplay</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> 
+<p><em>Full Stack Developer at Apple Music
 </em></p>I am working at my personal IoT project too, come and visit <a href="https://bethereapp.com.br/">BeThere official website</a></p>
 
 <h3>My everyday tools and technologies:</h3>
