@@ -13,9 +13,9 @@ I am working at my personal IoT project too, come and visit <a href="https://bet
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="ROS" src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img alt="ROS" src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -27,8 +27,8 @@ I am working at my personal IoT project too, come and visit <a href="https://bet
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img alt="Espressif" src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+  <img alt="Espressif" src="https://img.shields.io/badge/espressif-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
 </p>
 <!--
 **dederomagnolo/dederomagnolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
