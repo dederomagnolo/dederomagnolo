@@ -5,7 +5,7 @@
 </em></p>
 <p><em>Master’s student in Mobile Robotics at UFSCar <img src="https://media1.tenor.com/m/DGPLb9prvb8AAAAC/cat-studying.gif" width="70">
 </em></p>
-I am working at my personal IoT project too, come and visit <a href="https://bethereapp.com.br/">BeThere official website</a></p>
+I’m building a complete IoT system focused on smart garden automation. Come and visit to learn more about my product: <a href="https://bethereapp.com.br/">BeThere official website</a></p>. If you want to learn a little bit about IoT, check out my <a href="https://github.com/dederomagnolo/bethere-open-archive">BeThere open repo</a>, where I share IoT Pills: small, practical code snippets and research findings to help others build their own IoT systems.
 
 <h3>My everyday tools and technologies:</h3>
 <p>
